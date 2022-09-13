@@ -1,4 +1,4 @@
-## Funciones
+a## Funciones
 
 1) Crear una función que reciba un número como parámetro y devuelva si True si es primo y False si no lo es
 
